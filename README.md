@@ -1,2 +1,0 @@
-# Examprogram
-Assignment is done
